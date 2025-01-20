@@ -66,6 +66,28 @@ ds9colors.list_registered_colormaps()
 ```
 
 ## Example of use
-You can see an example of use in the folder `tests`. Inside it, you can run `test_library.py`
+You can see an example of use in the folder `tests`. Inside it, you can run `test_library.py` and retrieve the .pdf files that are also stored in the folder. The output of `ds9colormap.list_registered_colormaps()` will be the following:
+```
+List of registered DS9 colormaps: 
+ds9_grey - ds9_grey_r
+ds9_red - ds9_red_r
+ds9_green - ds9_green_r
+ds9_blue - ds9_blue_r
+ds9_a - ds9_a_r
+ds9_b - ds9_b_r
+ds9_bb - ds9_bb_r
+ds9_he - ds9_he_r
+ds9_i8 - ds9_i8_r
+ds9_aips - ds9_aips_r
+ds9_heat - ds9_heat_r
+ds9_cool - ds9_cool_r
+ds9_rainbow - ds9_rainbow_r
+ds9_staircase - ds9_staircase_r
+ds9_standard - ds9_standard_r
+ds9_color - ds9_color_r
+ds9_sls - ds9_sls_r
+ds9_hsv - ds9_hsv_r
+```
+
 
 
